@@ -7,7 +7,7 @@ import Quiz from 'react-quiz-component';
 function App() {
   return (
     <div className="App">
-      <Quiz quiz={quiz} shuffle={true} shuffleAnswer={true}/>
+      <Quiz quiz={quiz} shuffle={true} shuffleAnswer={true} timer={60 * 60}/>
     </div>
   );
 }
