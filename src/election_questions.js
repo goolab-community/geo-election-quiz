@@ -9618,7 +9618,7 @@ export const quiz = {
       point: "1",
     },
     {
-      question: "516. რომელი  მსჯელობაა  სწორ ი? \n",
+      question: "516. რომელი  მსჯელობაა  სწორი? \n",
       questionType: "text",
       answerSelectionType: "single",
       answers: [
